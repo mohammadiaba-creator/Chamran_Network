@@ -1,0 +1,7 @@
+[project]
+name = "Simple-HTTP-Server"
+version = "0.0.1"
+description = "A simple HTTP server implementation in Python."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["loguru>=0.7.0"]
